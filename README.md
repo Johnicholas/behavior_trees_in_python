@@ -31,7 +31,4 @@
 * and delegating to that op. DONE
 * handles resources by computing the union of its operations resources DONE
 
-
-
-
-
+timelapse video: http://youtu.be/G0hHwDtdh7c
